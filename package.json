@@ -1,0 +1,19 @@
+{
+  "name": "kapecom-server",
+  "version": "1.0.0",
+  "description": "Kapecom server for saving and serving static assets",
+  "main": "index.js",
+  "author": "Usman Abubakar<usmanabubakar0014@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "helmet": "^4.2.0",
+    "nodemailer": "^6.4.14",
+    "pouchdb": "^7.2.2",
+    "pug": "^3.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
